@@ -63,3 +63,9 @@ ul {
   padding-left: 8px;
   gap: 8px;
 }
+
+.profile-container {
+  display: flex;
+  gap: 16px;
+  margin-left: auto;
+}
