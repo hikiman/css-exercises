@@ -69,3 +69,7 @@ ul {
   gap: 16px;
   margin-left: auto;
 }
+
+.profile-container button {
+  align-self: center;
+}
